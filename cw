@@ -15,7 +15,7 @@ treść całego dowcipu ostatni wiersz<br>
 
 <IMG SRC="https://gifyagusi.pl/img/2019/05/05/obrazek-gif/strazak/stra%C5%BCak%20gasz%C4%85cy%20po%C5%BCar%20domu%20bez%20t%C5%82a.gif" ALIGN=right BORDER=19 WIDTH=109 HEIGHT=130 ALT=„grafika3-Kiernozek”>
 
-<IMG SRC="https://gifyagusi.pl/img/2019/05/05/obrazek-gif/strazak/stra%C5%BCak%20gasz%C4%85cy%20po%C5%BCar%20domu%20bez%20t%C5%82a.gif" ALIGN=left BORDER=19 WIDTH=109 HEIGHT=107 ALT=„grafika4-Kiernozek”>
+<IMG SRC="https://zasoby1.open.agh.edu.pl/dydaktyka/fizyka/c_fizyka_at_i_kw/obrazki/atom.gif" ALIGN=left BORDER=19 WIDTH=109 HEIGHT=107 ALT=„grafika4-Kiernozek”>
 
 <IMG SRC="https://gifyagusi.pl/img/2019/05/05/obrazek-gif/strazak/stra%C5%BCak%20gasz%C4%85cy%20po%C5%BCar%20domu%20bez%20t%C5%82a.gif" ALIGN=right BORDER=16 WIDTH=105 HEIGHT=105 ALT=„grafika5-Kiernozek”>
 
