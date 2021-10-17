@@ -56,7 +56,7 @@
       <h3> Zadanie 3 </h3> <br>
       <b> 80-809 </b>
       <i> Gdańsk </i>
-      <u> Bratki </u>
+      <u> Witosa 11 </u>
       <strike align="right"> 2 </strike> <br>
       <p align="center"> <font color="yellow"" size="5" face="Arial"> Ulubiony aktor: Keanu Reeves </font> </p> <br>
       <p align="center"> <font color="blue" size="4" face="Verdana"> Ulubiony zespół muzyczny: Nirvana </font> </p> <br>
