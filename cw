@@ -58,9 +58,9 @@
       <i> Gdańsk </i>
       <u> Witosa </u>
       <strike align="right"> 11 </strike> <br>
-      <p align="center"> <font color="yellow"" size="5" face="Arial"> Ulubiony aktor: Keanu Reeves </font> </p> <br>
-      <p align="center"> <font color="blue" size="4" face="Verdana"> Ulubiony zespół muzyczny: Nirvana </font> </p> <br>
-      <p align="center"> <font color="green" size="3" face="Times New Roman"> Data urodzienia: 27 października 2005 </font> </p> <br>
+      <p align="center"> <font color="yellow"" size="5" face="Arial"> Ulubiony aktor: Dwayne Johnson </font> </p> <br>
+      <p align="center"> <font color="blue" size="4" face="Verdana"> Ulubiony zespół muzyczny: 21 pilots </font> </p> <br>
+      <p align="center"> <font color="green" size="3" face="Times New Roman"> Data urodzienia: trzydziestego lipca dwa tysiące sześć </font> </p> <br>
       <p> H<sub>2</sub>SO<sub>2</sub> </p>
       <p> x*x=x<sup>2 </sup></p> <br>
       
