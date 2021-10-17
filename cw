@@ -2,7 +2,7 @@
   <html lang="pl-PL">
     <head>
       <meta charset="utf-8">
-      <title> Łukasz Kasprowicz 2G1 </title>
+      <title> Łukasz Kiernozek 2G1 </title>
     </head>
     <body>
       <h3> Zadanie 1 </h3> <br>
@@ -14,12 +14,12 @@
       <p align="right"> <font color="green" size="6" face="Arial"> Łukasz </font> </p> <br>
       <p align="right"> <font color="green" size="7" face="Arial"> Łukasz </font> </p> <br>
       
-      <h6> Kasprowicz </h6> <br>
-      <h5> Kasprowicz </h5> <br>
-      <h4> Kasprowicz </h4> <br>
-      <h3> Kasprowicz </h3> <br>
-      <h2> Kasprowicz </h2> <br>
-      <h1> Kasprowicz </h1> <br>
+      <h6> Kiernozek </h6> <br>
+      <h5> Kiernozek </h5> <br>
+      <h4> Kiernozek </h4> <br>
+      <h3> Kiernozek </h3> <br>
+      <h2> Kiernozek </h2> <br>
+      <h1> Kiernozek </h1> <br>
       
       <p> <font face="Counter New"> 🙂 uśmiech </font> </p> <br>
       <p> <font face="Times New Roman"> 😞 smutek </font> </p> <br>
@@ -50,11 +50,11 @@
         <p> Co robi pani zięć? </p> <br>
         <p> Zwykle robi co mu każę. </p> <br>
         <p> Imie &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Nazwisko </p> <br>
-        <p> Łukasz &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Kasprowicz </p> <br>
+        <p> Łukasz &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Kiernozek </p> <br>
       </FIELDSET>
       
       <h3> Zadanie 3 </h3> <br>
-      <b> 80-740 </b>
+      <b> 80-809 </b>
       <i> Gdańsk </i>
       <u> Bratki </u>
       <strike align="right"> 2 </strike> <br>
