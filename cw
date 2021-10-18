@@ -84,6 +84,8 @@
        <UL TYPE=square> & nbsp spacja niełamliwa</UL>
        <UL TYPE=square> </ br> przejscie do nowej liniki tekstu</UL>
        <UL TYPE=square> </UL>
+       
+       <A NAME="punkt_docelowy"></A>
            
       </FIELDSET>
       
